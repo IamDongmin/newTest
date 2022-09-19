@@ -1,0 +1,3 @@
+/home/ubuntu/codeTest/newTest/build/CMakeFiles/newTest.dir
+/home/ubuntu/codeTest/newTest/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/codeTest/newTest/build/CMakeFiles/rebuild_cache.dir
